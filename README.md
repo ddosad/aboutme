@@ -1,10 +1,5 @@
 
-<blockquote class="imgur-embed-pub" lang="en" data-id="ayylF4f"><a href="https://imgur.com/ayylF4f"> </a></blockquote>
-
-## Skills
-- **Programming Languages:** Python, SQL
-- **Tools:** Tableau, KNIME, Pandas, Scikit-Learn, NumPy, NLTK, MySQL, Jupyter / Google Collab, Excel, PowerPoint
-- **Concepts:** Predictive Modeling, Machine Learning, Data Visualization, Exploratory Data Analysis, Data Mining, Statistical Analysis, Time Series Forecasting, Finance and Risk Analytics, Marketing & Retail Analytics
+<img src="https://github.com/ddosad/DS_datasets/blob/e7cd1334663501608abeb63d930b90b6181377a3/%E2%96%B7.gif" width="100%" height='500px'>
 
 
 ## Projects
